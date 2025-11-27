@@ -1,6 +1,9 @@
 <div align="center">
 
-# Employee Task Tracker
+<p align="center">
+  <img src="frontend/logo.svg" width="100" alt="Project Logo" />
+</p>
+<h1 align="center">Employee Task Tracker</h1>
 
 Full-stack web application for internal task management.  
 The app keeps track of employees, their assigned work, and high-level delivery metrics through a **React dashboard** and an **Express REST API** backed by **SQLite**.
