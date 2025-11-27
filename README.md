@@ -2,6 +2,20 @@
 
 Full-stack web application for internal task management. The app keeps track of employees, their assigned work, and high-level delivery metrics through a React dashboard and an Express REST API backed by SQLite.
 
+<table>
+  <tr>
+    <td><img src="/assets/d(0).png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/l(1).png" width="400"></td>
+    <td><img src="/assets/d(1).png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/l(2).png" width="400"></td>
+    <td><img src="/assets/d(2).png" width="400"></td>
+  </tr>
+</table>
+
 ### Tech Stack
 - **Frontend:** React 18 (Vite 5), Tailwind CSS, Axios, Boxicons (`frontend_me/`)
 - **Backend:** Node.js 20, Express 5, Better-SQLite3, dotenv, cors, morgan (`backend/`)
