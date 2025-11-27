@@ -4,15 +4,15 @@ Full-stack web application for internal task management. The app keeps track of 
 
 <table>
   <tr>
-    <td><img src="/assets/d(0).png" width="400"></td>
+    <td><img src="frontend/assets/d (0).png" width="400"></td>
   </tr>
   <tr>
-    <td><img src="/assets/l(1).png" width="400"></td>
-    <td><img src="/assets/d(1).png" width="400"></td>
+    <td><img src="frontend/assets/l(1).png" width="400"></td>
+    <td><img src="frontend/assets/d(1).png" width="400"></td>
   </tr>
   <tr>
-    <td><img src="/assets/l(2).png" width="400"></td>
-    <td><img src="/assets/d(2).png" width="400"></td>
+    <td><img src="frontend/assets/l(2).png" width="400"></td>
+    <td><img src="frontend/assets/d(2).png" width="400"></td>
   </tr>
 </table>
 
