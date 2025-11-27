@@ -1,23 +1,36 @@
-<div align-items="center">
-## Employee Task Tracker
+<div align="center">
 
-Full-stack web application for internal task management. The app keeps track of employees, their assigned work, and high-level delivery metrics through a React dashboard and an Express REST API backed by SQLite.
+# Employee Task Tracker
+
+Full-stack web application for internal task management.  
+The app keeps track of employees, their assigned work, and high-level delivery metrics through a **React dashboard** and an **Express REST API** backed by **SQLite**.
+
+</div>
+
+<br>
+
+## 📸 Screenshots
+
+<div align="center">
+
+<p>
+  <img src="frontend/assets/d (0).png" width="400" alt="Employee Task Tracker - Dashboard View" />
+</p>
 
 <table>
   <tr>
-    <img src="frontend/assets/d (0).png" width="400">
+    <td><img src="frontend/assets/d (1).png" width="300" alt="Dark Mode - Employee List" /></td>
+    <td><img src="frontend/assets/l (1).png" width="300" alt="Light Mode - Employee List" /></td>
   </tr>
   <tr>
-    <td><img src="frontend/assets/d (1).png" width="300"></td>
-    <td><img src="frontend/assets/l (1).png" width="300"></td>
-  </tr>
-  <tr>
-    <td><img src="frontend/assets/d (2).png" width="200"></td>
-    <td><img src="frontend/assets/l (2).png" width="200"></td>
+    <td><img src="frontend/assets/d (2).png" width="200" alt="Dark Mode - Task Details" /></td>
+    <td><img src="frontend/assets/l (2).png" width="200" alt="Light Mode - Task Details" /></td>
   </tr>
 </table>
 
 </div>
+
+<br>
 
 ### Tech Stack
 - **Frontend:** React 18 (Vite 5), Tailwind CSS, Axios, Boxicons (`frontend_me/`)
@@ -30,7 +43,7 @@ Full-stack web application for internal task management. The app keeps track of 
 - **Database (`database/`)**: `schema.sql` creates `employees` and `tasks` tables with FK `tasks.employee_id` plus starter rows; migrations applied automatically by `app/db.js`.
 - **Flow**: UI actions -> Axios -> Express routes -> SQLite CRUD; summarized metrics returned from SQL aggregations. This mirrors the provided architecture diagram.
 
-```
+```shell
 .
 ├── backend/
 │   ├── app/
