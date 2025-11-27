@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="frontend/logo.svg" width="100" alt="Project Logo" />
+  <img src="frontend/logo.svg" width="70" alt="Project Logo" />
 </p>
 <h1 align="center">Employee Task Tracker</h1>
 
