@@ -1,3 +1,4 @@
+<div align-items="center">
 ## Employee Task Tracker
 
 Full-stack web application for internal task management. The app keeps track of employees, their assigned work, and high-level delivery metrics through a React dashboard and an Express REST API backed by SQLite.
@@ -7,14 +8,16 @@ Full-stack web application for internal task management. The app keeps track of 
     <img src="frontend/assets/d (0).png" width="400">
   </tr>
   <tr>
-    <td><img src="frontend/assets/l (1).png" width="400"></td>
-    <td><img src="frontend/assets/d (1).png" width="400"></td>
+    <td><img src="frontend/assets/d (1).png" width="300"></td>
+    <td><img src="frontend/assets/l (1).png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="frontend/assets/l (2).png" width="400"></td>
-    <td><img src="frontend/assets/d (2).png" width="400"></td>
+    <td><img src="frontend/assets/d (2).png" width="200"></td>
+    <td><img src="frontend/assets/l (2).png" width="200"></td>
   </tr>
 </table>
+
+</div>
 
 ### Tech Stack
 - **Frontend:** React 18 (Vite 5), Tailwind CSS, Axios, Boxicons (`frontend_me/`)
