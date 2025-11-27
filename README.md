@@ -25,10 +25,6 @@ The app keeps track of employees, their assigned work, and high-level delivery m
     <td><img src="frontend/assets/d (1).png" width="300" alt="Dark Mode - Employee List" /></td>
     <td><img src="frontend/assets/l (1).png" width="300" alt="Light Mode - Employee List" /></td>
   </tr>
-  <tr>
-    <td><img src="frontend/assets/d (2).png" width="300" alt="Dark Mode - Task Details" /></td>
-    <td><img src="frontend/assets/l (2).png" width="300" alt="Light Mode - Task Details" /></td>
-  </tr>
 </table>
 
 </div>
